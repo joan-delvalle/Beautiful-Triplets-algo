@@ -1,1 +1,1 @@
-# Beautiful-Triplets-algo
+# Beautiful-Triplets-algo This program counts beautiful triplets in a list, where a beautiful triplet is a sequence of three numbers `(a, b, c)` such that each consecutive number differs by `d`. It uses a `HashSet` to quickly check if `num + d` and `num + 2d` exist for each number, incrementing the count when they do.
